@@ -1,0 +1,11 @@
+--2024-04-27 12:28:07--  https://firebasestorage.googleapis.com/v0/b/fileuploading-67153.appspot.com/o/files%2F8deef28e-f862-4045-813f-a82a3050369d?alt=media
+Resolving firebasestorage.googleapis.com (firebasestorage.googleapis.com)... 142.251.12.95, 172.217.194.95, 142.250.4.95, ...
+Connecting to firebasestorage.googleapis.com (firebasestorage.googleapis.com)|142.251.12.95|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 150380 (147K) [application/pdf]
+Saving to: 'files%2F8deef28e-f862-4045-813f-a82a3050369d?alt=media.2'
+
+              files%2F8deef   0%[                                          ]       0  --.-KB/s                            files%2F8deef2  32%[============>                             ]  47.90K   228KB/s                           files%2F8deef28  65%[==========================>               ]  95.89K   224KB/s               files%2F8deef28e-f862-4045- 100%[=========================================>] 146.86K   301KB/s    in 0.5s    
+
+2024-04-27 12:28:08 (301 KB/s) - 'files%2F8deef28e-f862-4045-813f-a82a3050369d?alt=media.2' saved [150380/150380]
+
